@@ -1,7 +1,0 @@
-{
-  "name": "Act-JP52S",
-  "vendorId": "0x4141",
-  "productId": "0xa001",
-  "lighting": "none",
-  "matrix": { "rows": 4, "cols": 14 },
-}
